@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Belajar Membuat Html</title>
+</head>
+<body>
+    <table border="1"cellpadding="10">
+       <tr> 
+        <td bgcolor="yellow">baris kolong 1</td>
+        <td>baris kolong 2</td>
+       </tr>
+       <tr bgcolor="#00ff80">
+         <td>baris 2 kolom 1</td>
+         <td>baris 2 kolom 2</td>
+       </tr>
+    </table>
+</body>
+</html>     
